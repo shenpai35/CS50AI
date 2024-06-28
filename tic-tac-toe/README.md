@@ -1,1 +1,1 @@
-Project 0-2 AI plays tic-tac-toe.
+Project 0-2 plays tic-tac-toe against AI who never loses.
